@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+
+}
+
+h1{
+    font-size: 170%;
+    padding: 1%;
+}
+
+p{
+    padding: 1%;
+}
+
+
+body{
+    background-color:darkgrey;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+
+}
